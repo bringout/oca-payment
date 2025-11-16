@@ -12,7 +12,7 @@
 Each package contains a single Odoo module from OCA/bank-payment:
 
 ```
-packages/
+oca-payment/
 ├── odoo-bringout-oca-payment-payment_mode/
 │   └── account_payment_mode/          # Odoo module
 ├── odoo-bringout-oca-payment-payment_partner/
